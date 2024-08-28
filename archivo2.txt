@@ -1,2 +1,2 @@
-1era kinea archivo 2
-2da kinea archivo 2
+1era linea archivo 2
+2da linea archivo 2 modificar
